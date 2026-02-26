@@ -31,7 +31,7 @@ export default function Footer() {
         <p className="font-heading text-2xl md:text-3xl text-white mb-4"
           style={{ textShadow: '0 2px 12px rgba(0,0,0,0.5)' }}
         >
-          I&apos;m sorry, Tanu.
+          I&apos;m sorry, Babudi.
         </p>
 
         <p className="font-body text-base text-gray-300 mb-2"
